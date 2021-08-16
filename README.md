@@ -1,4 +1,4 @@
-# Senna Senna Technical Manual
+# SENNA v2.0 Technical Manual
 
 This is a repository of files and code related to the SENNA Inventory for the Assessment of Social and Emotional Skills.
 
